@@ -1,6 +1,3 @@
-README.md content**:
-
-`markdown
 # 🚑 Smart Interactive CPR Training App
 
 > **TEAM_ID:** Team(CLB)_3_14  
