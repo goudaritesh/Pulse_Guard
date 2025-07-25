@@ -18,7 +18,7 @@
 
 ## 📎 Final Presentation
 
-📄 [Download Presentation Slide Deck ](https://drive.google.com/file/d/1NS4nvA6HQq4hNdrwM26v-J5qLvuZJje4/view?usp=sharing)
+📄 [Presentation Slide ](https://drive.google.com/file/d/1NS4nvA6HQq4hNdrwM26v-J5qLvuZJje4/view?usp=sharing)
 
 ---
 
