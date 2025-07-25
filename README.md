@@ -125,12 +125,12 @@ flutter run
 
 ## 🎞 Demo Video
 
-📺 [Watch Our  Demo Video]([https://youtu.be/NjAeaCOlbGk?feature=shared])
+📺 [Watch Our Demo Video]([https://youtu.be/NjAeaCOlbGk?feature=shared])
 
 
 ---
 
-## 📎 Final Presentation (PDF)
+## 📎 Final Presentation
 
 📄 [Download Presentation Slide Deck (PDF)](https://github.com/goudaritesh/Pulse_Guard/raw/main/Team%28CLB%29_3_14%20presentation.pdf)
 
