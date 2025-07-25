@@ -14,14 +14,6 @@
 📺 [Watch Our Demo Video](https://youtu.be/NjAeaCOlbGk?feature=shared)
 
 
-
----
-
-## 📎 Final Presentation
-
-📄 [Download Presentation Slide Deck ](https://github.com/goudaritesh/Pulse_Guard/raw/main/Team%28CLB%29_3_14%20presentation.pdf)
-
----
 ---
 
 ## 📎 Final Presentation
