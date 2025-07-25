@@ -22,7 +22,13 @@
 📄 [Download Presentation Slide Deck ](https://github.com/goudaritesh/Pulse_Guard/raw/main/Team%28CLB%29_3_14%20presentation.pdf)
 
 ---
+---
 
+## 📎 Final Presentation
+
+📄 [Download Presentation Slide Deck ](https://drive.google.com/file/d/1NS4nvA6HQq4hNdrwM26v-J5qLvuZJje4/view?usp=sharing)
+
+---
 
 ## 📌 Project Overview
 Pulse Guard is a smartphone-based CPR training tool, designed to help users practice proper chest compression rhythm using everyday objects like pillows or CPR dummies. The app uses the phone’s built-in sensors to detect compression movements and provides real-time feedback, voice guidance, and gamified scoring to simulate a CPR session. Pulse Guard is meant to assist users in building CPR confidence and rhythm through practice on safe, non-human surfaces.
